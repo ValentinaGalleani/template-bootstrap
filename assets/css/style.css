@@ -1,0 +1,12 @@
+.btn{
+	margin-bottom: 1em;
+}
+.label{
+	margin-bottom: 1em;
+}
+
+.dropdown-static{
+	display: block;
+	position: static;
+
+}
